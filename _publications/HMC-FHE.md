@@ -1,0 +1,13 @@
+---
+title: "HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption"
+collection: publications
+permalink: /publication/HMC-FHE
+excerpt: 'Fully homomorphic encryption (FHE) offers a promising solution to ensure data privacy by enabling computations directly on encrypted data. However, its notorious performance degradation severely limits the practical application, due to the explosion of both the ciphertext volume and computation. In this paper, leveraging the diversity of computing power and memory bandwidth requirements of FHE operations, we present HMC-FHE, a robust acceleration framework that combines both GPU and Hybrid Memory Cube (HMC) processing engines to accelerate FHE applications cooperatively. HMC-FHE incorporates four key hardware/software co-design techniques: a fine-grained kernel offloading mechanism to efficiently offload FHE operations to relevant processing engines;
+a ciphertext partitioning scheme to minimize data transfer across decentralized HMC processing engines; an FHE operation pipeline scheme to facilitate pipelined execution between GPU and HMC engines; and a kernel tuning scheme to guarantee the parallelism of GPU and HMC engines. We demonstrate that the GPU-HMC architecture with proper resource management serves as a promising acceleration scheme for memory-intensive FHE operations. Compared with the state-of-the-art GPU-based acceleration scheme, the proposed framework achieves up to 2.65× performance gains and reduces 1.81× energy consumption with the same peak computation capacity.'
+date: 2024-7-11
+venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A)'
+#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
