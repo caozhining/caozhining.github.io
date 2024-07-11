@@ -20,5 +20,5 @@ Education
 Select publication
 ======
 * HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption
-  Zehao Chen, Zhining Cao, Zhaoyan Shen, Lei Ju
+  Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A)
