@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Cao Zhining.
+I am Cao Zhining ,a undergrade student from Shandong University, advised by Professor Shen Zhaoyan.
 
 Recent News
 ======
@@ -20,5 +20,7 @@ Education
 Select publication
 ======
 * HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption
+
   Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju
-  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A)
+
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, **CCF-A**)
