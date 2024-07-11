@@ -11,16 +11,20 @@ I am Cao Zhining ,a undergrade student from Shandong University, advised by Prof
 
 <font color="red"> Sincerely looking for PhD positions for fall 2025 admission! </font>
 
-Recent News
-======
+### Research Interest
+
+Computer storage system, Heterogeneous computing devices, Software-hardware co-design
+
+## Recent News
+
 * July, 2024, Our paper (HMC-FHE) has been accepted by TCAD(CCF-A)
 
-Education
-======
+## Education
+
 * B.S. in Taishan (Honors) College, Shandong University, 2021
 
-Select publication
-======
+## Select publication
+
 * HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption
   Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, **CCF-A**)
