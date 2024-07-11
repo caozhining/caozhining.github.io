@@ -26,12 +26,14 @@ Recent News
 Select publication
 ---------
 * HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption
-  <publicationfont>Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju</publicationfont>
-  <publicationfont>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A)</publicationfont>
+
+  Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju
+  
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A)
 
 
 <style>
-  publicationfont{
+  p{
     line-height:1
   }
 </style>
