@@ -18,7 +18,7 @@ Computer storage system, Heterogeneous computing devices, Software-hardware co-d
 Education
 ---------
 * B.S. in Taishan (Honors) College, Shandong University, 2021
-* M.S. in Insititue of Computing Technology, Chinese Academy of Sciences,  2025(expected)
+* M.S. in Insititue of Computing Technology, Chinese Academy of Sciences, 2025(expected)
 
 Recent News
 ---------
