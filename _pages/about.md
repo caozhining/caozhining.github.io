@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Cao Zhining ,a undergrade student from Shandong University, advised by Professor Shen Zhaoyan.
+I am Cao Zhining ,a undergrade student from Shandong University, advised by Professor [Shen Zhaoyan](https://zyshen00.github.io/). 
 
-<font color="red"> Sincerely looking for PhD positions for fall 2025 admission! </font>
+<!-- <font color="red"> Sincerely looking for PhD positions for fall 2025 admission! </font> -->
 
 Research Interest
 ---------
