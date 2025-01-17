@@ -20,11 +20,7 @@ Education
 * B.S. in Taishan (Honors) College, Shandong University, 2021
 * M.S. in Insititue of Computing Technology, Chinese Academy of Sciences, 2025(expected)
 
-Recent News
----------
-* July, 2024, Our paper (HMC-FHE) has been accepted by TCAD (CCF-A)
-
-Select publication
+Publications
 ---------
 * HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption<br>
   Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju<br>
