@@ -7,7 +7,7 @@ Based on these key observations, we propose CSD-CoKV, a novel framework that har
 date: 2024-7-11
 venue: 'IEEE International Conference on Data Engineering 2026 (ICDE, CCF-A)'
 # paperurl: 'http://caozhining.github.io/files/HMC-FHE_A_Heterogeneous_Near_Data_Processing_Framework_for_Homomorphic_Encryption.pdf'
-# citation: 'Chen Z, Cao Z, Shen Z, et al. HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024, 43(11): 3551-3563.'
+citation: 'Cao Z, Zhang K, et al. CSD-CoKV: Host-CSD Collaborative Offloading for High-Performance LSM-tree based KV Stores[C]. IEEE International Conference on Data Engineering, 2026.'
 ---
 
 LSM-tree-based key-value stores are widely used due to their high performance and write efficiency. However, their background compaction process requires substantial data movement between the host and storage devices, resulting in inefficient resource usage, frequent write stalls, and degraded overall throughput. Existing optimizations often fail to address the performance bottlenecks caused by excessive system interconnect traffic. Although in-storage computing offers a promising way to mitigate data transfer overhead, prior works typically offload all compaction tasks blindly to computational storage devices, which leads to performance degradation due to CSD resource constraints. Through experimental observations, we find that naively offloading all compactions to CSDs can harm performance, and that host-side execution is particularly inefficient for deep-level compactions and compactions with low key-range overlap scores.
