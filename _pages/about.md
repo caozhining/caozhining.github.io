@@ -17,11 +17,15 @@ Computer storage system, Heterogeneous computing devices, Software-hardware co-d
 
 Education
 ---------
-* B.S. in Taishan (Honors) College, Shandong University, 2021
-* M.S. in Insititue of Computing Technology, Chinese Academy of Sciences, 2025(expected)
+* B.S. in Taishan (Honors) College, Shandong University, 2021 - 2025
+* M.S. in Insititue of Computing Technology, Chinese Academy of Sciences, 2025 - 2028 (expected)
 
 Publications
 ---------
+* CSD-CoKV: Host-CSD Collaborative Offloading for High-Performance LSM-tree based KV Stores<br>
+  **Zhining Cao**, Kai Zhang, Jinrun Yang, Hui Li, Nan Su, Qian Wei, Shikun Ma, Zehao Chen, Junbo Yin, Haijun Zhang, Zhaoyan Shen<br>
+  IEEE International Conference on Data Engineering 2026 (ICDE, **CCF-A**)<br>
+
 * HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption<br>
   Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju<br>
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, **CCF-A**)<br>
