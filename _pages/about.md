@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Cao Zhining, a undergrade student from Shandong University, advised by Professor [Shen Zhaoyan](https://zyshen00.github.io/). I am also currently a visiting student at the Institute of Computing Technology, Chinese Academy of Sciences, advised by Professor [Wang Ying](https://wangying-ict.github.io/).
+I am Cao Zhining, currently pursuing my master’s degree at the Institute of Computing Technology, Chinese Academy of Sciences, under the supervision of Professor [Wang Ying](https://wangying-ict.github.io/). Before that, I received my bachelor’s degree from Shandong University, where I was advised by Professor [Shen Zhaoyan](https://zyshen00.github.io/).
+
+<!-- I am Cao Zhining, a undergrade student from Shandong University, advised by Professor . I am also currently a visiting student at the Institute of Computing Technology, Chinese Academy of Sciences, advised by Professor . -->
 
 <!-- <font color="red"> Sincerely looking for PhD positions for fall 2025 admission! </font> -->
 
