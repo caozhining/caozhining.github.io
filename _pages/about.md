@@ -32,6 +32,13 @@ Publications
   Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju<br>
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, **CCF-A**)<br>
 
+Patent
+---------
+* ZL 2025 1 0629542.3 基于计算存储设备的键值数据库近存储计算系统<br>
+  Zhaoyan Shen, **Zhining Cao**, Kai Zhang, Nan Su, Haijun Zhang, Jinrun Yang, Qian Wei, Mengying Zhao, Dongxiao Yu<br>
+
+* ZL 2025 1 1344659.3 基于计算存储设备阵列的键值数据库数据排布方法及系统<br>
+  Zhaoyan Shen, **Zhining Cao**, Nan Su, Kai Zhang, Jinrun Yang, Qian Wei, Mengying Zhao, Dongxiao Yu
 
 <style>
   publicationfont{
