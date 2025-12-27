@@ -40,6 +40,9 @@ Patent
 * ZL 2025 1 1344659.3 基于计算存储设备阵列的键值数据库数据排布方法及系统<br>
   Zhaoyan Shen, **Zhining Cao**, Nan Su, Kai Zhang, Jinrun Yang, Qian Wei, Mengying Zhao, Dongxiao Yu
 
+* ZL 2025 1 1328445.7 基于计算存储设备阵列的键值数据库任务卸载方法及系统<br>
+  Zhaoyan Shen, **Zhining Cao**, Nan Su, Kai Zhang, Jinrun Yang, Qian Wei, Mengying Zhao, Dongxiao Yu
+
 <style>
   publicationfont{
     line-height:1
