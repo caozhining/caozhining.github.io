@@ -26,11 +26,11 @@ Publications
 ---------
 * CSD-CoKV: Host-CSD Collaborative Offloading for High-Performance LSM-tree based KV Stores<br>
   **Zhining Cao**, Kai Zhang, Jinrun Yang, Hui Li, Nan Su, Qian Wei, Shikun Ma, Zehao Chen, Junbo Yin, Haijun Zhang, Zhaoyan Shen<br>
-  IEEE International Conference on Data Engineering 2026 (ICDE, **CCF-A**)<br>
+  IEEE International Conference on Data Engineering, 2026, (ICDE'26, **CCF-A**)<br>
 
 * HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption<br>
   Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju<br>
-  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, **CCF-A**)<br>
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and System, 2024, (TCAD, **CCF-A**)<br>
 
 Patent
 ---------
