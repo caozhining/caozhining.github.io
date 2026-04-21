@@ -26,7 +26,7 @@ Publications
 ---------
 * CSD-CoKV: Host-CSD Collaborative Offloading for High-Performance LSM-tree based KV Stores<br>
   **Zhining Cao**, Kai Zhang, Jinrun Yang, Hui Li, Nan Su, Qian Wei, Shikun Ma, Zehao Chen, Junbo Yin, Haijun Zhang, Zhaoyan Shen<br>
-  42nd IEEE International Conference on Data Engineering (ICDE), Montréal, Canada, May 4-8, 2026, (**CCF-A**) [Paper](http://caozhining.github.io/files/ICDE26_CSD_CoKV.pdf) [Slides](http://caozhining.github.io/files/CSD_CoKV_ICDE26.pdf)<br>
+  42nd IEEE International Conference on Data Engineering (ICDE), Montréal, Canada, May 4-8, 2026, (**CCF-A**) [Paper](http://caozhining.github.io/files/ICDE26_CSD_CoKV.pdf) [Slides](http://caozhining.github.io/files/CSD_CoKV_ICDE26.pdf) [Code & Result](https://github.com/caozhining/CSD-RocksDB)<br>
 
 * HMC-FHE: A Heterogeneous Near Data Processing Framework for Homomorphic Encryption<br>
   Zehao Chen, **Zhining Cao**, Zhaoyan Shen, Lei Ju<br>
