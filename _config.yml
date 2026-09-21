@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cao Zhining"
+title                    : "Zhining Cao"
 title_separator          : "-"
-name                     : &name "Cao Zhining"
-description              : &description "personal description"
+name                     : &name "Zhining Cao"
+description              : &description "Zhining Cao is a master's student at the Institute of Computing Technology, Chinese Academy of Sciences, with research interests in storage systems, heterogeneous computing, and hardware–software co-design."
 url                      : https://caozhining.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caozhining/caozhining.github.io"
@@ -22,9 +22,9 @@ repository               : "caozhining/caozhining.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Cao Zhining"
+  name             : "Zhining Cao"
   pronouns         : # example: "she/her"  
-  bio              : "Phd candidate for computer science"
+  bio              : "Master’s student in Computer Science"
   location         : "Beijing"
   employer         : "Institute of Computing Technology"
   uri              : # URL
@@ -148,6 +148,10 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/non-menu-page.md
+  - _pages/markdown.md
+  - _pages/archive-layout-with-content.md
+  - _teaching/2014-spring-teaching-1.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Taishan (Honors) College, Shandong University, advised by Professor Shen Zhaoyan, 2021 - 2025
-* M.S. in Insititue of Computing Technology, Chinese Academy of Sciences, 2025 - 2028(expected)
+* B.S., Taishan (Honors) College, Shandong University, advised by Professor Zhaoyan Shen, 2021–2025
+* M.S. (expected 2028), Institute of Computing Technology, Chinese Academy of Sciences, 2025–2028
   
 <!-- Hoboy
 ======
