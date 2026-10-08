@@ -15,7 +15,10 @@ I am Zhining Cao, currently pursuing my master’s degree at the Institute of Co
 
 Research Interests
 ---------
-Computer storage systems, heterogeneous computing, and hardware–software co-design
+* Large Language Model (LLM) Inference Systems
+* Heterogeneous Computing, Near-Data / In-Storage Computing
+* Intelligent and Adaptive Storage Systems
+* Hardware–Software Co-Design, System-Level Modeling
 
 Education
 ---------
