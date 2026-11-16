@@ -13,13 +13,13 @@ Education
 ======
 
 * **University of Chinese Academy of Sciences (UCAS)**<br>
-  Master’s student, 2025–2028 (expected)<br>
+  Master’s student in Computer Science and Technology, 2025–2028 (expected)<br>
   Institute of Computing Technology, Chinese Academy of Sciences<br>
   Advisor: Professor [Ying Wang](https://wangying-ict.github.io/)
 
-* **Shandong University**<br>
-  B.S., 2021–2025<br>
-  Taishan (Honors) College<br>
+* **Shandong University (SDU)**<br>
+  Bachelor’s degree in Computer Science and Technology, 2021–2025<br>
+  Taishan (Honors) College, School of Computer Science and Technology<br>
   Advisor: Professor [Zhaoyan Shen](https://zyshen00.github.io/)
   
 <!-- Hoboy

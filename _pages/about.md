@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhining Cao, a master’s student at the University of Chinese Academy of Sciences (UCAS), conducting research at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), under the supervision of Professor [Ying Wang](https://wangying-ict.github.io/). Before that, I received my bachelor’s degree from Shandong University, where I was advised by Professor [Zhaoyan Shen](https://zyshen00.github.io/).
+I am Zhining Cao, a master’s student at the University of Chinese Academy of Sciences (UCAS), conducting research at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), under the supervision of Professor [Ying Wang](https://wangying-ict.github.io/). Before that, I received my bachelor’s degree in Computer Science and Technology from Shandong University (SDU), where I studied at Taishan (Honors) College, School of Computer Science and Technology, and was advised by Professor [Zhaoyan Shen](https://zyshen00.github.io/).
 
 <!-- I am Cao Zhining, a undergrade student from Shandong University, advised by Professor . I am also currently a visiting student at the Institute of Computing Technology, Chinese Academy of Sciences, advised by Professor . -->
 
@@ -24,12 +24,12 @@ Education
 ---------
 
 * **University of Chinese Academy of Sciences (UCAS)**<br>
-  Master’s student, 2025–2028 (expected)<br>
+  Master’s student in Computer Science and Technology, 2025–2028 (expected)<br>
   Institute of Computing Technology, Chinese Academy of Sciences
 
-* **Shandong University**<br>
-  B.S., 2021–2025<br>
-  Taishan (Honors) College
+* **Shandong University (SDU)**<br>
+  Bachelor’s degree in Computer Science and Technology, 2021–2025<br>
+  Taishan (Honors) College, School of Computer Science and Technology
 
 Publications
 ---------
