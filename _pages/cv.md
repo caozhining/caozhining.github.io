@@ -11,8 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S., Taishan (Honors) College, Shandong University, advised by Professor Zhaoyan Shen, 2021–2025
-* M.S. (expected 2028), Institute of Computing Technology, Chinese Academy of Sciences, 2025–2028
+
+* **University of Chinese Academy of Sciences (UCAS)**<br>
+  Master’s student, 2025–2028 (expected)<br>
+  Institute of Computing Technology, Chinese Academy of Sciences<br>
+  Advisor: Professor [Ying Wang](https://wangying-ict.github.io/)
+
+* **Shandong University**<br>
+  B.S., 2021–2025<br>
+  Taishan (Honors) College<br>
+  Advisor: Professor [Zhaoyan Shen](https://zyshen00.github.io/)
   
 <!-- Hoboy
 ======
