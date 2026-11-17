@@ -35,7 +35,7 @@ Publications
 ---------
 * A Host-CSD Collaborative Framework for High-Performance LSM-Based KV Stores<br>
   Qian Wei, **Zhining Cao**, Qiang Li, Xianwei Meng, Jinrun Yang, Zehao Chen, Dongxiao Yu, Zhaoyan Shen<br>
-  ACM Transactions on Architecture and Code Optimization (TACO), 2026, (**CCF-A**)<br>
+  ACM Transactions on Architecture and Code Optimization (TACO), 2026, (**CCF-A**) [Paper](https://doi.org/10.1145/3859885)<br>
   *Extended version of our ICDE 2026 paper (CSD-CoKV).*
 
 * CSD-CoKV: Host-CSD Collaborative Offloading for High-Performance LSM-tree based KV Stores<br>
